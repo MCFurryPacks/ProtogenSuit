@@ -1,5 +1,5 @@
 # Protogen Suit
-replaces leather chest, leggings, boots, and carved pumpkin with a protogen fursuit.
+replaces leather chest, leggings, boots, and carved pumpkin with a protogen fursuit. Supports 1.13+
 
 I did not make this.
 

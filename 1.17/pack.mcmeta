@@ -1,8 +1,11 @@
 {
    "pack": {
-      "pack_format": 5,
+      "pack_format": 7,
       "description": "Replaces leather armor & pumpkin with a protogen suit.",
-      "git_version": "1.0.2"
+      "version": {
+         "git": "1.0.2",
+         "mc": "1.17"
+      }
    },
    "language": {
       "en_us": {
