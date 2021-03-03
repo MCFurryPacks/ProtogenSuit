@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "Replaces leather armoor & carved pumpkin with a protogen suit."
+   },
+   "language": {
+      "en_us": {
+         "name": "English",
+         "region": "United States",
+         "bidirectional": false
+      }
+   }
+}
