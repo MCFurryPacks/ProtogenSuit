@@ -1,3 +1,5 @@
+# All further development has been moved to [git.furry.cool](https://git.furry.cool/MCFurryPacks)
+
 # Protogen Suit
 replaces leather chest, leggings, boots, and carved pumpkin with a protogen fursuit. Supports 1.13+
 
